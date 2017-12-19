@@ -168,9 +168,9 @@ MonoBehaviour:
             m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 0
             m_FloatArgument: 0
-            m_StringArgument: Lukisan ini dibuat pada tahun 1888 oleh pelukis terkenal
-              bernama Vincent Van Gogh, seniman yang berasal dari Belanda. Lukisan
-              ini, diambil dari sebuah Kafe, dimana ada beberapa orang didalamnya
+            m_StringArgument: Cafe Terrace at Night dibuat pada tahun 1888 oleh pelukis
+              terkenal bernama Vincent Van Gogh, seniman yang berasal dari Belanda.
+              Lukisan ini, diambil dari sebuah Kafe, dimana ada beberapa orang didalamnya
               yang sedang duduk meminum secangkir kopi.
             m_BoolArgument: 0
           m_CallState: 2
@@ -382,9 +382,9 @@ MonoBehaviour:
             m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 0
             m_FloatArgument: 0
-            m_StringArgument: Lukisan ini dibuat pada tahun 1907 oleh Gustav Klimt
-              seorang master Vienna. Objek yang terdapat pada lukisan adalah seorang
-              pria yang mencium pipi seorang gadis yang dikelilingi selimut emas.
+            m_StringArgument: The Kiss dibuat pada tahun 1907 oleh Gustav Klimt seorang
+              master Vienna. Objek yang terdapat pada lukisan adalah seorang pria
+              yang mencium pipi seorang gadis yang dikelilingi selimut emas.
             m_BoolArgument: 0
           m_CallState: 2
       m_TypeName: UnityEngine.EventSystems.EventTrigger+TriggerEvent, UnityEngine.UI,
@@ -796,8 +796,8 @@ MonoBehaviour:
             m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 0
             m_FloatArgument: 0
-            m_StringArgument: Merupakan lukisan yang di ciptakan oleh Edvard Munch,
-              dan juga merupakan lukisan yang paling terkenal di dunia di karenakan
+            m_StringArgument: The Scream merupakan lukisan yang di ciptakan oleh Edvard
+              Munch, dan juga merupakan lukisan yang paling terkenal di dunia di karenakan
               harganya yang sangat mahal bahkan untuk beberapa tipe dari lukisan ini.
             m_BoolArgument: 0
           m_CallState: 2
@@ -2569,10 +2569,10 @@ MonoBehaviour:
             m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 0
             m_FloatArgument: 0
-            m_StringArgument: Lukisan ini dibuat pada tahun 1931 oleh Salvador Dali
-              seniman asal Spanyol. Lukisan ini beraliran surealisme, dimana objek
-              diambil dari mimpi atau imajinasi lalu diaplikasikan pada sebuah gambar,
-              terlihat bentuk jam dinding yang dilenturkan.
+            m_StringArgument: The persistence of memory dibuat pada tahun 1931 oleh
+              Salvador Dali seniman asal Spanyol. Lukisan ini beraliran surealisme,
+              dimana objek diambil dari mimpi atau imajinasi lalu diaplikasikan pada
+              sebuah gambar, terlihat bentuk jam dinding yang dilenturkan.
             m_BoolArgument: 0
           m_CallState: 2
       m_TypeName: UnityEngine.EventSystems.EventTrigger+TriggerEvent, UnityEngine.UI,
@@ -4018,9 +4018,9 @@ MonoBehaviour:
             m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 0
             m_FloatArgument: 0
-            m_StringArgument: 'Lukisan Van Gogh ini berisikan keindahan malam dengan
-              beberapa bangunan didalamnya sangat menarik perhatian, lukisan ini terkesan
-              klasik dengan warna yang indah pada langit-langitnya. '
+            m_StringArgument: 'Lukisan Van Gogh ini, Starry Night, berisikan keindahan
+              malam dengan beberapa bangunan didalamnya sangat menarik perhatian,
+              lukisan ini terkesan klasik dengan warna yang indah pada langit-langitnya. '
             m_BoolArgument: 0
           m_CallState: 2
       m_TypeName: UnityEngine.EventSystems.EventTrigger+TriggerEvent, UnityEngine.UI,
@@ -4811,10 +4811,10 @@ MonoBehaviour:
             m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 0
             m_FloatArgument: 0
-            m_StringArgument: Lukisan ini dibuat oleh Pierre Auguste Renoir pada tahun
-              1875. Lukisan ini menggambarkan sekelompok masyarakat Prancis yang sedang
-              berbahagia, terdapat jamuan minuman anggur, dan sekumpulan orang-orang
-              Prancis,
+            m_StringArgument: Luncheon of the Boating Party dibuat oleh Pierre Auguste
+              Renoir pada tahun 1875. Lukisan ini menggambarkan sekelompok masyarakat
+              Prancis yang sedang berbahagia, terdapat jamuan minuman anggur, dan
+              sekumpulan orang-orang Prancis,
             m_BoolArgument: 0
           m_CallState: 2
       m_TypeName: UnityEngine.EventSystems.EventTrigger+TriggerEvent, UnityEngine.UI,
@@ -4946,9 +4946,9 @@ MonoBehaviour:
             m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 0
             m_FloatArgument: 0
-            m_StringArgument: Lukisan ini dibuat oleh Johannes Vermeer pada tahun
-              1665. Lukisan ini ditanda tangani oleh IVmeer, namun tidak ada tanggal
-              pembuatannya hingga sampai sekarang menjadi misteri,
+            m_StringArgument: Girl with Pearl Earing dibuat oleh Johannes Vermeer
+              pada tahun 1665. Lukisan ini ditanda tangani oleh IVmeer, namun tidak
+              ada tanggal pembuatannya hingga sampai sekarang menjadi misteri,
             m_BoolArgument: 0
           m_CallState: 2
       m_TypeName: UnityEngine.EventSystems.EventTrigger+TriggerEvent, UnityEngine.UI,
@@ -5506,10 +5506,10 @@ MonoBehaviour:
             m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 0
             m_FloatArgument: 0
-            m_StringArgument: Lukisan ini dibuat oleh Claude Monet pada tahun 1877.
-              Pelukis ini dikenal seorang impresionis klasik. Lukisan yang dibuat
-              diambil dari alam, taman, pohon dan air yang mengalir tampak begitu
-              hidup.
+            m_StringArgument: Corner of the Garden at Montgeron dibuat oleh Claude
+              Monet pada tahun 1877. Pelukis ini dikenal seorang impresionis klasik.
+              Lukisan yang dibuat diambil dari alam, taman, pohon dan air yang mengalir
+              tampak begitu hidup.
             m_BoolArgument: 0
           m_CallState: 2
       m_TypeName: UnityEngine.EventSystems.EventTrigger+TriggerEvent, UnityEngine.UI,
@@ -5875,10 +5875,11 @@ MonoBehaviour:
             m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 0
             m_FloatArgument: 0
-            m_StringArgument: Salah satu lukisan paling fenomenal dengan sejuta misteri.
-              Mona Lisa dibuat pada abad ke-16 tepatnya pada tahun 1503 oleh Leonardo
-              Da Vinci, salah seorang seniman terkenal dan legendaris. Kata Mona Lisa
-              diambil dari bahasa Itali yang artinya Nyonya Lisa.
+            m_StringArgument: Monalisa merupakan salah satu lukisan paling fenomenal
+              dengan sejuta misteri. Mona Lisa dibuat pada abad ke-16 tepatnya pada
+              tahun 1503 oleh Leonardo Da Vinci, salah seorang seniman terkenal dan
+              legendaris. Kata Mona Lisa diambil dari bahasa Itali yang artinya Nyonya
+              Lisa.
             m_BoolArgument: 0
           m_CallState: 2
       m_TypeName: UnityEngine.EventSystems.EventTrigger+TriggerEvent, UnityEngine.UI,
@@ -6685,9 +6686,9 @@ MonoBehaviour:
             m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 0
             m_FloatArgument: 0
-            m_StringArgument: Merupakan lukisan yang di ciptakan oleh Bill Stoneham
-              pada tahun 1972 di Oakland, California. Lukisan ini juga di kenal sebagai
-              lukisan paling menyeramkan di dunia.
+            m_StringArgument: The hand resist him merupakan lukisan yang di ciptakan
+              oleh Bill Stoneham pada tahun 1972 di Oakland, California. Lukisan ini
+              juga di kenal sebagai lukisan paling menyeramkan di dunia.
             m_BoolArgument: 0
           m_CallState: 2
       m_TypeName: UnityEngine.EventSystems.EventTrigger+TriggerEvent, UnityEngine.UI,
