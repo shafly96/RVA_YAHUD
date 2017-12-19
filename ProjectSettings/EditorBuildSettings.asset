@@ -4,4 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MyProjects/Scenes/FPMain.unity
+    guid: 97cc294e5364ee34cb3706a7eb81701b
