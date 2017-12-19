@@ -155,17 +155,17 @@ public static class GvrSettings {
   /// Wraps call to `VRDevice.GetNativePtr()` and logs error if a supported GVR SDK is not active or
   /// if the returned native pointer is `IntPtr.Zero`.
   public static IntPtr GetValidGvrNativePtrOrLogError() {
-    if (!UnityEngine.XR.XRSettings.enabled) {
+    if (!VRSettings.enabled) {
       Debug.LogError("VR is disabled");
       return IntPtr.Zero;
     }
-    if (UnityEngine.XR.XRSettings.loadedDeviceName != VR_SDK_DAYDREAM
-        && UnityEngine.XR.XRSettings.loadedDeviceName != VR_SDK_CARDBOARD) {
+    if (VRSettings.loadedDeviceName != VR_SDK_DAYDREAM
+        && VRSettings.loadedDeviceName != VR_SDK_CARDBOARD) {
       Debug.LogErrorFormat("Loaded VR SDK '{0}' must be '{1}' or '{2}'",
-          UnityEngine.XR.XRSettings.loadedDeviceName, VR_SDK_DAYDREAM, VR_SDK_CARDBOARD);
+          VRSettings.loadedDeviceName, VR_SDK_DAYDREAM, VR_SDK_CARDBOARD);
       return IntPtr.Zero;
     }
-    IntPtr gvrContextPtr = UnityEngine.XR.XRDevice.GetNativePtr();
+    IntPtr gvrContextPtr = VRDevice.GetNativePtr();
     if (gvrContextPtr == IntPtr.Zero) {
       Debug.LogError("Unexpected zero GVR native context pointer");
       return gvrContextPtr;
